@@ -1,5 +1,8 @@
 _repo: The-Young-Wireless-OperatorAfloat-How-Roy-Mercer-Won-His-Spurs-in-the-Merchant-Marine_55864
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55864-h/images/cover.jpg
 creator:
   author:
     agent_name: Theiss, Lewis E. (Lewis Edwin)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4662'
     url: http://www.gutenberg.org/2009/agents/4662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55864#The-Young-Wireless-OperatorAfloat-How-Roy-Mercer-Won-His-Spurs-in-the-Merchant-Marine
 gutenberg_issued: '2017-10-31'
 gutenberg_type: Text
 identifiers:
